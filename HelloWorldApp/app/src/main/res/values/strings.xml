@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello World App</string>
+    <string name="label_input_text">Masukkan Nama Anda</string>
+    <string name="hint">Nama</string>
+    <string name="btn_submit">Submit</string>
+</resources>

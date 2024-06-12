@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TimerCountdownApp</string>
+    <string name="label_input_text">Timer Countdown</string>
+    <string name="hint">Input Numbers</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="label_countdown">Countdown:</string>
+</resources>

@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ExtracurricularApp</string>
+    <string name="aplikasi_ekskul">Pendaftaran Ekstrakurikuler</string>
+    <string name="description">Silahkan isi detail berikut</string>
+    <string name="label_input_name">Nama</string>
+    <string name="label_input_nis">NIS</string>
+    <string name="label_input_class">Kelas</string>
+    <string name="label_input_date">Tanggal Lahir</string>
+    <string name="btn_save">Simpan</string>
+    <string name="genderLabel">Jenis Kelamin</string>
+    <string name="maleLabel">Laki-laki</string>
+    <string name="femaleLabel">Perempuan</string>
+    <string name="extracurricularLabel">Pilih Ekstrakurikuler Berikut</string>
+    <string name="basketLabel">Bola Basket</string>
+    <string name="footballLabel">Sepak Bola</string>
+    <string name="swimmingLabel">Renang</string>
+    <string name="chessLabel">Klub Catur</string>
+    <string name="debateLabel">Debat Inggris</string>
+    <string name="dramaLabel">Teater</string>
+    <string name="label_input_dateActivities">Pilih Hari dan Jam Kegiatan</string>
+    <string name="label_input_schedule">Pilihan Hari dan Jam</string>
+    <string name="label_input_extracurricular">Ekstrakurikuler</string>
+    <string name="title_detail">Data Pendaftar</string>
+    <string name="description_detail">Berikut detail data pendaftar</string>
+
+    <string-array name="class_options">
+        <item>Kelas A</item>
+        <item>Kelas B</item>
+        <item>Kelas C</item>
+        <item>Kelas D</item>
+        <item>Kelas E</item>
+    </string-array>
+
+    <string-array name="schedule_options">
+        <item>Senin Pagi</item>
+        <item>Senin Siang</item>
+        <item>Selasa Pagi</item>
+        <item>Selasa Siang</item>
+        <item>Rabu Pagi</item>
+        <item>Rabu Siang</item>
+        <item>Kamis Pagi</item>
+        <item>Kamis Siang</item>
+        <item>Jumat Pagi</item>
+        <item>Jumat Siang</item>
+        <item>Sabtu Pagi</item>
+        <item>Sabtu Siang</item>
+    </string-array>
+
+</resources>
